@@ -21,7 +21,7 @@ Clone the repository
 
 Navigate to the root of the project:
 
-`cd DDPG-Reacher-Unity-Agent`
+`cd Udacity-P2-DDPG-Reacher`
 
 Install required python packages using pip or conda, for a quick basic setup use:
 
@@ -38,7 +38,7 @@ The repo does not contain any version of the unity environment (Udacity version)
 
 You can run the project from some Editor like VS code or directly from commandline:
 
-`python train_agent.py`
+`python train_agent.py -e <<environment_path>>`
 
 This will train the agent and will store 2 versions of model weights. One when it pass the environment solved condition and other after the training episodes.
 
