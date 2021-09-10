@@ -17,7 +17,7 @@ Make sure you have python installed in your computer. The project was created wi
 
 Clone the repository
 
-`git clone ....`
+`git clone https://github.com/enriquemoraayala/Udacity-P2-DDPG-Reacher.git`
 
 Navigate to the root of the project:
 
